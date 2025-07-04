@@ -14,7 +14,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {
     "colab": {},
     "colab_type": "code",
@@ -28,7 +28,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {
     "colab": {},
     "colab_type": "code",
@@ -44,7 +44,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {
     "colab": {},
     "colab_type": "code",
@@ -70,7 +70,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {
     "colab": {},
     "colab_type": "code",
@@ -95,7 +95,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {
     "colab": {},
     "colab_type": "code",
@@ -158,7 +158,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {
     "colab": {},
     "colab_type": "code",
@@ -189,7 +189,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {
     "colab": {},
     "colab_type": "code",
@@ -202,7 +202,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {
     "colab": {},
     "colab_type": "code",
@@ -225,7 +225,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "metadata": {
     "colab": {},
     "colab_type": "code",
