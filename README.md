@@ -1,17 +1,23 @@
-# Twitter Sentiment Analysis
-###### "Because I'm Too Lazy to check Twitter .."
-------------------------------------------------
-Hi There!
-This is a simple notebook to analyse the current top trends on Twitter along with their sentiment distributions. 
+# 🐦 Twitter Sentiment Analysis Web App
 
-For example : How many people are thinking positively or negative about a topic. I have also made a very easy to use module for checking the sentiment distribution and analyse the opinions using pie chart which is available as `visualise()`
+A Flask-based web application that fetches recent tweets based on a keyword or hashtag, analyzes their sentiment (Positive, Negative, Neutral) using **TextBlob**, and visualizes the results in a clean interface.
+---
+## 🔍 Features
 
-_Please note that I have intentionally erased the API and access tokens for obvious security issues. You need to generate your own token from apps.twitter.com._
+- 🔎 Fetch tweets in real-time using **Twitter API** via Tweepy
+- 🧠 Analyze sentiment using **TextBlob**
+- 📊 Display results with sentiment counts and pie chart
+- 📝 Clean, lightweight Flask-based UI
+- 🔐 Fully configurable using your own Twitter API credentials
 
-| Object | Link |
-| ------ | ---- |
-| Notebook HTML | [Link](https://cdn.staticaly.com/gh/amitrajitbose/twitter-sentiment-analysis/5013c921/twitter_sentiment_analysis.html) |
-| Notebook IPYNB | [Link](https://github.com/amitrajitbose/twitter-sentiment-analysis/blob/master/twitter_sentiment_analysis.ipynb) |
+---
 
-Open to collaborations and PRs. <br>
-Have a nice day !
+## 🧰 Tech Stack
+
+- **Frontend**: HTML, CSS (Bootstrap)
+- **Backend**: Python Flask
+- **Libraries**:
+  - `Tweepy` – Fetch tweets using Twitter API
+  - `TextBlob` – Sentiment analysis
+  - `Matplotlib` – Chart rendering
+  - `Flask` – Web framework
